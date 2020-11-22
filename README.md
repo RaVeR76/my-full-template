@@ -1,3 +1,3 @@
 # My very first website
 
-Welcome! [Code Institute](hhtps://codeinstitute.net)
+Welcome! [Code Institute](https://codeinstitute.net)
